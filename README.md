@@ -14,7 +14,7 @@ powershell -c "irm bun.sh/install.ps1|iex"
 ```
 
 To install dependencies:
-
+(Right click the directory you copied this project to and click Open in Terminal)
 ```bash
 bun install
 ```
