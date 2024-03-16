@@ -1,4 +1,4 @@
-# connectpcb
+# Missing Part Finder For Allegro Boards
 
 To install dependencies:
 
